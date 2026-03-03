@@ -32,7 +32,7 @@ CDN (Content Delivery Network) 内容分发网络，缓存主用户B内容。当
 
 网络模型分为OSI和TCP/IP两种
 
-![wlmx](image\1.png)
+![wlmx](.\image\1.png)
 
 ## 传输层核心协议与DOS攻击
 
